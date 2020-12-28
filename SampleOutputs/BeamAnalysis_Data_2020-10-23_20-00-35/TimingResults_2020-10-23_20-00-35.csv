@@ -1,0 +1,15 @@
+,Description,Execution time (end - start) /s,Measurement type,Number of times executed,Average total execution time per simulation instance /s
+9,StatisticalAnalysis plot_RandomMatrixOffDiagonals_All(),5.41712212562561,Once,1.0,N/A
+7,StatisticalAnalysis plot_ParticleNum(),0.43564891815185547,Once,1.0,N/A
+11,AlphaParticles get_Results() (sum),0.0009980201721191406,Sum,6.0,0.0001663366953531901
+10,AlphaParticles get_Results() (average),0.0001663366953531901,Average,1.0,N/A
+0,ErrorChecking class definition,0.0,Once,1.0,N/A
+1,ProgramAdmin class definition,0.0,Once,1.0,N/A
+2,AlphaParticles class definition,0.0,Once,1.0,N/A
+3,StatisticalAnalysis class definition,0.0,Once,1.0,N/A
+4,AlphaRTGame class definition,0.0,Once,1.0,N/A
+5,AttenuationQuiz class definition,0.0,Once,1.0,N/A
+6,main() function definition,0.0,Once,1.0,N/A
+8,StatisticalAnalysis save_Data(),0.0,Once,1.0,N/A
+12,StatisticalAnalysis calculate_and_get_Average() (average),0.0,Average,1.0,N/A
+13,StatisticalAnalysis calculate_and_get_PopulationStandardDeviation() (average),0.0,Average,1.0,N/A

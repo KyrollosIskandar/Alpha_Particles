@@ -1,0 +1,11 @@
+,Description,Execution time (end - start) /s,Measurement type,Number of times executed,Average total execution time per simulation instance /s
+8,AlphaRTGame calculate_DoseToMedium(),1.7944471836090088,Once,1,N/A
+7,AlphaRTGame calculate_MaximumRange(),0.0009484291076660156,Once,1,N/A
+0,ErrorChecking class definition,0.0,Once,1,N/A
+1,ProgramAdmin class definition,0.0,Once,1,N/A
+2,AlphaParticles class definition,0.0,Once,1,N/A
+3,StatisticalAnalysis class definition,0.0,Once,1,N/A
+4,AlphaRTGame class definition,0.0,Once,1,N/A
+5,AttenuationQuiz class definition,0.0,Once,1,N/A
+6,main() function definition,0.0,Once,1,N/A
+9,AlphaRTGame game_Outcome(),0.0,Once,1,N/A

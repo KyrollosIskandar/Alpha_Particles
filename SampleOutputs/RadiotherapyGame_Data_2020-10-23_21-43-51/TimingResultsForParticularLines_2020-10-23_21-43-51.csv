@@ -1,0 +1,4 @@
+,Description,Execution time (end - start) /s
+1,AlphaRTGame calculate_DoseToMedium() MomentumTransfer_Array calculation,1.7944471836090088
+0,AlphaRTGame calculate_DoseToMedium() MaximumRange calculation,0.0
+2,AlphaRTGame calculate_DoseToMedium() AbsorbedDose calculation,0.0

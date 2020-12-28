@@ -1,0 +1,10 @@
+Medium 1 thickness = 1e-9 m
+Medium 2 thickness = 1e-8 m
+Medium 3 thickness = 2e-9 m
+Medium 4 thickness = 1.5e-9 m
+Medium 5 thickness = 2.5e-8 m
+Medium 6 thickness = 3e-9 m
+Medium 7 thickness = 1e-9 m
+Medium 8 thickness = 1e-9 m
+Medium 9 thickness = 1e-9 m
+Medium 10 thickness = 1e-9 m

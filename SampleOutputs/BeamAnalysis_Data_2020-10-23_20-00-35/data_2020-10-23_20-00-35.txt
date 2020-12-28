@@ -1,0 +1,34 @@
+Program: AlphaParticles2.py
+Author: Kyrollos Iskandar
+
+Timestamp (YYYY-MM-DD_hh-mm-ss): 2020-10-23_20-00-35
+
+Simulation mode: Analysis of an alpha particle beam
+
+### Inputs about the alpha particles ###
+Initial kinetic energy = 0.01 MeV
+Initial number of alpha particles = 20
+Probability density function used for random number generation: Python 3's basic distribution, where random numbers between 0 and 1 were randomly generated, and where 0 but not 1 were included in the set of numbers that could have been generated
+Seed for the random number generators = 0
+
+### Inputs about the medium ###
+Atomic number = 1
+Atomic weight = 1 g/mol
+Mass density = 1 g/cm^3
+
+### Inputs about the simulation ###
+Number of simulation instances: 6
+
+### Results ###
+Mean range = 1.799797452088134e-06 +/- 1.50894351595272e-08 m (Average +/- 3 * Population standard deviation)
+Maximum range = 1.818080872421189e-06 +/- 3.159663794540188e-08 m (Average +/- 3 * Population standard deviation)
+
+### Information about the randomised 3x3 matrix that was used to generate the data ###
+# Diagonal elements:
+C_xx = 0.9997257754941689
+C_yy = 0.9997257754941689
+C_zz = 0.9997257754941689
+
+# The values of the off-diagonal elements of the randomised 3x3 matrix are shown in the accompanying plots.
+
+### End of the data file ###

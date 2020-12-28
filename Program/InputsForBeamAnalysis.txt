@@ -1,0 +1,9 @@
+Initial kinetic energy of the alpha particles = 1e-4 MeV
+Initial particle number = 20
+Probability density function = basic
+Whether or not to seed = y
+Seed = 0
+Atomic number of the medium = 1
+Atomic weight of the medium = 1 g/mol
+Mass density of the medium = 1 g/cm^3
+Number of simulation instances = 2

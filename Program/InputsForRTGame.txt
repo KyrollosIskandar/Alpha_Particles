@@ -1,0 +1,7 @@
+Initial kinetic energy of the alpha particles = 1e-2 MeV
+Initial particle number = 50
+Probability density function = basic
+Whether or not to seed = y
+Seed = 0
+Beam height = 1 cm
+Beam width = 1 cm

@@ -1,0 +1,11 @@
+,Description,Execution time (end - start) /s,Measurement type,Number of times executed,Average total execution time per simulation instance /s
+9,AttenuationQuiz calculate_Data(),0.37676072120666504,Once,1.0,N/A
+8,AlphaParticles show_Progress() (sum),0.36322999000549316,Sum,11597.0,0.36322999000549316
+7,AlphaParticles show_Progress() (average),3.1321030439380285e-05,Average,1.0,N/A
+0,ErrorChecking class definition,0.0,Once,1.0,N/A
+1,ProgramAdmin class definition,0.0,Once,1.0,N/A
+2,AlphaParticles class definition,0.0,Once,1.0,N/A
+3,StatisticalAnalysis class definition,0.0,Once,1.0,N/A
+4,AlphaRTGame class definition,0.0,Once,1.0,N/A
+5,AttenuationQuiz class definition,0.0,Once,1.0,N/A
+6,main() function definition,0.0,Once,1.0,N/A

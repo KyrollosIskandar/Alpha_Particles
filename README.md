@@ -14,4 +14,5 @@ The program is useful for getting a rough idea of some of the physical propertie
 Contributions from users are welcome and are subject to review.
 
 Kyrollos Iskandar
+
 Author of Alpha Particles 1.0 and 2.0

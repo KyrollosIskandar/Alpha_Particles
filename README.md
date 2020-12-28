@@ -1,7 +1,7 @@
 # Alpha_Particles
 Version: 2.0
 
-Alpha Particles 2.0 is a simulator of alpha particle beams. However, it is not finalised. Please see Section 4.2 of my documentation for a detailed description of how the program can be improved.
+Alpha Particles 2.0 is a non-relativistic simulator of alpha particle beams. However, it is not finalised. Please see Section 4.2 of my documentation for a detailed description of how the program can be improved.
 
 The program tries to answer the following questions:
 * How far do alpha particles of a given initial kinetic energy travel in given media in the case when they all have the same initial kinetic energy?

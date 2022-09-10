@@ -21,4 +21,4 @@ The files for running the program are in the Program directory. Sample outputs o
 
 Kyrollos Iskandar
 
-Author of Alpha Particles 1.0 and 2.0
+Designer and Developer of Alpha Particles 1.0 and 2.0

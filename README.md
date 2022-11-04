@@ -15,7 +15,7 @@ The program is still to be improved. Please see Section 4.2 of my documentation 
 
 Contributions from users are welcome and are subject to review.
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the Apache 2.0 license as of 4 November 2022. The Apache 2.0 license applies to all commits of this project's repository, past, present and future, as of 4 November 2022. The Apache 2.0 license supersedes the MIT license which was the previous license for the repository.
 
 The files for running the program are in the Program directory. Sample outputs of the program are in the SampleOutputs directory. The TimingStudies directory contains files that were used for the experiments mentioned in the documentation for improving the program's performance.
 
